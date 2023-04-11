@@ -31,9 +31,22 @@ button.addButton:hover {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  margin-left: 5px;
 }
 
 .todoText {
   margin-left: 10px;
   flex-grow: 1;
 }
+
+.todoDate {
+  margin-right: 10px;
+}
+
+.todoDateT {
+  margin-right: 50px;
+}
+.todoDelT {
+  margin-right: 10px;
+}
+
